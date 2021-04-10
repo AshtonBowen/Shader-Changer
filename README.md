@@ -14,11 +14,15 @@ How to Run the Program
 Controls
 
 On start you'll be able to change the shader by pressing C.
+
 You can enable the current shader by pressing S and disable it by pressing F.
 
 If you press T you can change the colour of the teapot. 
+
 A and Z allows you to change the tone of the red colour.
+
 S and X allows you to change the tone of the green colour.
+
 D and C allows you to change the tone of the blue colour.
 
 This is the Standard Shader
