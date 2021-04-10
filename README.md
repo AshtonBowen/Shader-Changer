@@ -1,7 +1,7 @@
 # Shader-Changer
 A program the changes it's shaders. It will cycle through 4 different shaders, a standard blank shader, a phong shader, a blinn-phong shader and a shader that takes in multiple lights. The sandard shader doesn't change it's colour and has a default to the others. 
 
-The program uses FreeGLUT and OpenGL for it's libraries. 
+The program uses FreeGLUT and OpenGL for it's framework. 
 OpenGL is used to create the window and create the 3D graphics. 
 FreeGLUT is used for the button inputs to change the shaders and colour of the teapot. It is also used for loading the text files for the shaders as well.
 
