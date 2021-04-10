@@ -12,6 +12,7 @@ How to Run the Program
 4. Now you can run the project.
 
 Controls
+
 On start you'll be able to change the shader by pressing C.
 You can enable the current shader by pressing S and disable it by pressing F.
 
@@ -27,10 +28,12 @@ This is the Multiple Lights Shader
 ![image](https://user-images.githubusercontent.com/82277922/114283087-eb865a80-9a3f-11eb-9f3a-51d0cc05933f.png)
 
 This is the Phong Shader
+
 ![image](https://user-images.githubusercontent.com/82277922/114283101-f9d47680-9a3f-11eb-8275-cb591730c00a.png)
 
 This is the Blinn-Phong Shader
 ![image](https://user-images.githubusercontent.com/82277922/114283125-1a9ccc00-9a40-11eb-9037-a450ccd63d47.png)
 
 Bugs
+
 There is one known bug that the Multiple lights shader 1 starts disabled and has it's controls reversed. So S disables it and D enables it. 2 disabling any of the other shaders will enable the multiple lights shader. I have taken actions to solve this bug using breakpoint, stepping through the program and using test cases. 
